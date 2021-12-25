@@ -1,1 +1,36 @@
 
+USER_COMMENT=null
+
+ANDROID_VERSION=10
+
+APP_VERSION_NAME=2.21.19.21
+
+MARKE=Ulefone
+
+PHONE_MODEL=Hinweis 9P
+
+CUSTOM_DATA=
+
+STACK_TRACE=java.lang.NullPointerException: Versuch, die Schnittstellenmethode 'java.util.Iterator java.util.List.iterator()' für eine Null-Objektreferenz aufzurufen
+
+	bei X.33Q.A02(Unbekannte Quelle:0)
+
+	bei X.33R.A03(Unbekannte Quelle:308)
+
+	bei X.33R.A02(Unbekannte Quelle:0)
+
+	bei X.33R.A01(Unbekannte Quelle:6)
+
+	at org.whispersystems.jobqueue.Job.A03(Unbekannte Quelle:5648)
+
+	bei X.3Jj.A00(Unbekannte Quelle:14)
+
+	unter com.facebook.redex.RunnableBRunnable0Shape2S0200000_I0_2.run(Unbekannte Quelle:4011)
+
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+
+	unter com.facebook.redex.RunnableBRunnable0Shape2S0200000_I0_2.run(Unbekannte Quelle:4023)
+
+	at java.lang.Thread.run(Thread.java:919)
